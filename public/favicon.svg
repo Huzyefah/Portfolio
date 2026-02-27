@@ -1,13 +1,7 @@
-<svg width="50px" height="50px" viewBox="0 0 50 50" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <g stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon fill="#000000" fill-rule="nonzero" points="0 30.1184211 0 22.9226974 16 14 16 21.5657895 6.00369686 26.3766447 6.00369686 26.6644737 16 31.4753289 16 39"></polygon>
-        <polygon fill="#000000" fill-rule="nonzero" points="31 7 23.9756098 43 19 43 26.0243902 7"></polygon>
-        <polygon fill="#000000" fill-rule="nonzero" points="50 30.1184211 34 39 34 31.4753289 44.025878 26.6644737 44.025878 26.3766447 34 21.5657895 34 14 50 22.9226974"></polygon>
-    </g>
-     <style>
-        polygon { fill: #000; }
-        @media (prefers-color-scheme: dark) {
-            polygon { fill: #FFF; }
-        }
-    </style>
-</svg>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Transformed by: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="SVGRepo_bgCarrier" stroke-width="0"/>
+<g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
+<g id="SVGRepo_iconCarrier"> <path d="M16 11L17.6965 12.5268C19.239 13.9151 20.0103 14.6093 20.0103 15.5C20.0103 16.3907 19.239 17.0849 17.6965 18.4732L16 20" stroke="#137547" stroke-width="1.5" stroke-linecap="round"/> <path d="M8.00005 4.82959L6.30358 6.35641C4.76102 7.74471 3.98975 8.43886 3.98975 9.32959C3.98975 10.2203 4.76102 10.9145 6.30358 12.3028L8.00005 13.8296" stroke="#137547" stroke-width="1.5" stroke-linecap="round"/> <path d="M13.9868 5L12.9934 8.70743M11.8432 13L10.0132 19.8297" stroke="#137547" stroke-width="1.5" stroke-linecap="round"/> </g>
+</svg>
