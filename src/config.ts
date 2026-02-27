@@ -6,7 +6,6 @@ export const siteConfig = {
   social: {
     email: "huzyefahsaqib13@gmail.com",
     linkedin: "https://linkedin.com/in/huzyefah",
-    twitter: "",
     github: "https://github.com/huzyefah",
   },
   aboutMe:
@@ -30,7 +29,7 @@ export const siteConfig = {
   ],
   projects: [
     {
-      name: "MIDAS — Multiple Input Diagnostic Aid System",
+      name: "MIDAS — Multiple Input Diagnostic Aid System (In Progress)",
       description:
         "AI-assisted clinical decision support system using real-world anonymized clinical data from Fatima Memorial Hospital. Implements ML models for prioritized differential diagnoses with explainable AI techniques for clinical interpretability.",
       skills: [
